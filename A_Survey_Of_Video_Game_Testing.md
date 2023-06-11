@@ -8,8 +8,8 @@ The work reports that play-testing is the primary testing technique used by game
 The study concludes that researches about automated game tests needs to be made, as weel as tools for this. Allowing the developers to integrate such tools in the workflow, allows the play-testers to focus on other aspects of the game, such gameplay and aesthetics.
 
 ## 2. Survey Method
-Types of content considered for the research:
-White literature:
+Types of content considered for the research:\
+White literature:\
 * academic literature;
 * journal;
 * conference and workshops papers;
@@ -18,3 +18,11 @@ Gray literature:
 * presentations in well-known conferences;
 * blog posts from game developers;
 * video-game postmortems.
+
+A. Academic Literature\
+the two sources used for academic literature was: Scopus and Engineering Village with the inclusion criteria being: "Papers must be about game development" and "Papers must be about or discuss testing" and the exclusion criteria being: "Papers not written in english", "Papers about gamification", "Papers about serious games", "Papers about using games for educational purposes" and "Papers about using games for medical puposes".\
+After all the steps including: Filtering: title reading; Filtering: abstract reading; Coding: full reading; Snowballing the dataset ended up with 96 papers.\
+\
+B. Gray Literature\
+For the gray literature the same inclustion and exclusion parameters were used. Three main sources were used for this: "Postmortems of video-game projects", "Conferences on game development" and "Media specialized in game development".\
+Searches on specialized forums were also made, on Stack-Exchange searches with the tags "testing" were made with 79 questions without relevance, about hardware compatibility (11 questions), game-play balancing (10 questions) and network testing (8 questions).
