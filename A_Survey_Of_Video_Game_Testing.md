@@ -18,7 +18,7 @@ White literature:
 * journal;
 * conference and workshops papers;
 * books.
-<br>
+
 Gray literature:
 * presentations in well-known conferences;
 * blog posts from game developers;
