@@ -1,4 +1,4 @@
-# A Suvery Of Video Game Testing
+# A Survey Of Video Game Testing
 Authors: Cristiano Politowski, Fabio Petrillo, Yan-Gael Gueheneuc
 
 ## 1. Introduction
@@ -8,7 +8,7 @@ Essential testing methods for conventional software: unit, component, integratio
 <br>
 The work reports that play-testing is the primary testing technique used by game developers, and also that automating play-testing sessions is very hard, wich leads developers to hire specialized testers to manually play-test their games, resulting in an industry that relies mostly on manual labour and human expertise to test their games.
 <br>
-The study concludes that researches about automated game tests needs to be made, as weel as tools for this. Allowing the developers to integrate such tools in the workflow, allows the play-testers to focus on other aspects of the game, such gameplay and aesthetics.
+The study concludes that researches about automated game tests needs to be made, as well as tools for this. Allowing the developers to integrate such tools in the workflow, allows the play-testers to focus on other aspects of the game, such gameplay and aesthetics.
 
 ## 2. Survey Method
 Types of content considered for the research:
@@ -26,14 +26,17 @@ Gray literature:
 
 A. Academic Literature
 <br>
-the two sources used for academic literature was: Scopus and Engineering Village with the inclusion criteria being: "Papers must be about game development" and "Papers must be about or discuss testing" and the exclusion criteria being: "Papers not written in english", "Papers about gamification", "Papers about serious games", "Papers about using games for educational purposes" and "Papers about using games for medical puposes".
+the two sources used for academic literature was: Scopus and Engineering Village with the inclusion criteria being: "Papers must be about game development" and "Papers must be about or discuss testing" and the exclusion criteria being: "Papers not written in English", "Papers about gamification", "Papers about serious games", "Papers about using games for educational purposes" and "Papers about using games for medical purposes".
 <br>
 After all the steps including: Filtering: title reading; Filtering: abstract reading; Coding: full reading; Snowballing the dataset ended up with 96 papers.
 <br>
 <br>
 B. Gray Literature
 <br>
-For the gray literature the same inclustion and exclusion parameters were used. Three main sources were used for this: "Postmortems of video-game projects", "Conferences on game development" and "Media specialized in game development".
+For the gray literature the same inclusion and exclusion parameters were used. Three main sources were used for this: "Postmortems of video-game projects", "Conferences on game development" and "Media specialized in game development".
 <br>
 Searches on specialized forums were also made, on Stack-Exchange searches with the tags "testing" were made with 79 questions without relevance, about hardware compatibility (11 questions), game-play balancing (10 questions) and network testing (8 questions).
 <br>
+
+## 3. Results - Academic Literature.
+
